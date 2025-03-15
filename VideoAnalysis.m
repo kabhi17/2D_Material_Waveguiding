@@ -1,3 +1,4 @@
+% Waveguiding video analysis code developed by Abhishek Kalpattu at the Fourkas Lab, UMD
 %% Load sets of image files
 clear;% Specify the folder where the files live.
 G='Seq';
