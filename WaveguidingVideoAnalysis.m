@@ -1,4 +1,4 @@
-% Waveguiding video analysis. Abhishek Kalpattu, Fourkas Lab, UMD
+% Waveguiding video analysis. Code developed by Abhishek Kalpattu at the Fourkas Lab, UMD
 %% Loading data 
 FF=0; % Load start timestamp
 LF=12; % Load end timestamp
